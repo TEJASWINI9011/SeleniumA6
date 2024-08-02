@@ -1,0 +1,10 @@
+browser chrome
+url https://demowebshop.tricentis.com/
+vTigerurl https://localhost:8888
+username admin01@gmail.com
+password admin01
+
+
+vTigerurl https://localhost:8888
+vtusername admin
+vtpassword root
